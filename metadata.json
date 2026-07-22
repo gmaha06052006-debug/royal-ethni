@@ -1,0 +1,6 @@
+{
+  "name": "Royal Ethnica",
+  "description": "A premium luxury Indian ethnic fashion brand ecommerce experience featuring curated bridal wear, sherwanis, sarees, and custom AI-powered styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

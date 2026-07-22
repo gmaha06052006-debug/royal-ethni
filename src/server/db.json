@@ -1,0 +1,946 @@
+{
+  "products": [
+    {
+      "id": "prod_1",
+      "name": "The Empress Rajkumari Lehenga",
+      "description": "An exquisite crimson red bridal lehenga meticulously handcrafted in premium raw silk. Features intricate zardozi wire embroidery, dabka, and hand-sown semi-precious pearls tracing traditional royal Mughal motifs. Comes with a matching heavily embellished blouse and two options of fine silk-tulle dupattas in red and pale peach.",
+      "price": 185000,
+      "discountPrice": 165000,
+      "category": "Women",
+      "subCategory": "Bridal Lehengas",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=800"
+      ],
+      "colors": [
+        "Crimson Red",
+        "Deep Maroon"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom Tailored"
+      ],
+      "stock": 4,
+      "rating": 4.9,
+      "reviews": [
+        {
+          "id": "rev_1",
+          "author": "Anjali S.",
+          "rating": 5,
+          "comment": "An absolute masterpiece! The zardozi details are so fine, and the custom fitting tailored by their master designer fit like a glove. Worth every single rupee.",
+          "date": "2026-05-15"
+        }
+      ],
+      "craftsmanship": "180 hours of hand zardozi & dabka wire embroidery by master artisans in Lucknow.",
+      "fabric": "100% Pure Mulberry Raw Silk base, Fine Silk Tulle Dupatta",
+      "careInstructions": "Dry Clean Only. Storage in pure cotton muslin bags recommended away from moisture.",
+      "occasion": [
+        "Wedding",
+        "Main Ceremony"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_2",
+      "name": "Noor-I-Jahan Anarkali",
+      "description": "An ethereal cream and champagne gold floor-length Anarkali suit. Adorned with delicate hand-embroidered Gota Patti work along the kalis and neckline, embellished with subtle glass beads. Includes a coordinating churidar and a sheer organza dupatta with gold scalloped borders.",
+      "price": 42000,
+      "category": "Women",
+      "subCategory": "Anarkali Suits",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800",
+        "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800"
+      ],
+      "colors": [
+        "Champagne Gold",
+        "Ivory Cream"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 12,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "id": "rev_2",
+          "author": "Priya M.",
+          "rating": 5,
+          "comment": "Stunning dress. Fluid georgette fabric and gorgeous gota details. I wore it for my sister's Sangeet and received non-stop compliments.",
+          "date": "2026-04-20"
+        }
+      ],
+      "craftsmanship": "Handcrafted Gota Patti appliqué and mirror-work embroidery from Jaipur.",
+      "fabric": "Premium Viscose Georgette core, Premium Suede-trimmed Net, Pure Silk border",
+      "careInstructions": "Dry Clean Only. Direct iron strictly forbidden on embellishments.",
+      "occasion": [
+        "Sangeet",
+        "Mehendi",
+        "Festive Celebrations"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_3",
+      "name": "Kanjeevaram Silk Brocade Saree",
+      "description": "A magnificent fuchsia purple and golden Kanjeevaram silk saree sourced directly from weavers in Tamil Nadu. The body features rich, heavy gold metallic thread brocade woven in ancient bird and mango templates. Features a contrast rich pallu with heavy zari details.",
+      "price": 65000,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800"
+      ],
+      "colors": [
+        "Fuchsia Pink",
+        "Mustard Gold"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 8,
+      "rating": 5,
+      "reviews": [],
+      "craftsmanship": "Double-warp handloom weaving done by traditional master weavers featuring pure gold-coated silver zari.",
+      "fabric": "100% Pure Kanchipuram Mulberry Silk",
+      "careInstructions": "Dry Clean Only. Wrap in white paper or soft cotton sheets. Do not store with plastics.",
+      "occasion": [
+        "Wedding",
+        "Reception",
+        "Grand Pooja"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_4",
+      "name": "The Maharaja Ivory Sherwani",
+      "description": "A regal ivory-colored Sherwani tailored with absolute sophistication. Features a Structured bandhgala collar, hand-embroidered antique tilla wiring along the cuffs, shoulder, and button row. Complete with premium hand-woven cream raw silk churidar pants and a gold silk stole.",
+      "price": 110000,
+      "discountPrice": 95000,
+      "category": "Men",
+      "subCategory": "Sherwani",
+      "images": [
+        "https://images.unsplash.com/photo-1605001011156-cbf0b0f67a51?q=80&w=800",
+        "https://images.unsplash.com/photo-1621184455862-c163dfb30e0f?q=80&w=800"
+      ],
+      "colors": [
+        "Royal Ivory",
+        "Champagne Gold"
+      ],
+      "sizes": [
+        "38 (S)",
+        "40 (M)",
+        "42 (L)",
+        "44 (XL)",
+        "Custom Fit"
+      ],
+      "stock": 5,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "id": "rev_3",
+          "author": "Karan J.",
+          "rating": 4,
+          "comment": "Perfect fit and highly premium fabric. The gold stole wraps beautifully. High end bridal look for grooms.",
+          "date": "2026-06-01"
+        }
+      ],
+      "craftsmanship": "Handmade tilla embroidery with standard custom measurements on reservation.",
+      "fabric": "Premium Banarasi Raw Silk, soft cotton-sateen linings.",
+      "careInstructions": "Professional dry wash only. Hang on dry structural wooden hangers.",
+      "occasion": [
+        "Wedding",
+        "Groom Entrance",
+        "Reception"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_5",
+      "name": "Shalimar Pastel Chikankari Suit",
+      "description": "A comforting sage green Salwar Suit capturing the historic essence of Lucknowi craft. Intricately detailed with shadow work white thread embroidery (Chikankari) along the full front, sleeves, and pants. Comes with a sheer chiffon dupatta.",
+      "price": 24000,
+      "category": "Women",
+      "subCategory": "Salwar Suits",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800"
+      ],
+      "colors": [
+        "Mint Green",
+        "Blush Pink",
+        "Soft Blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 15,
+      "rating": 4.6,
+      "reviews": [],
+      "craftsmanship": "Handwritten block print stamps processed with hand thread embroidery in Lucknow.",
+      "fabric": "Hand-spun Cotton-Silk blend, Chiffon dupatta",
+      "careInstructions": "Hand-wash under mild soap or dry clean. Shadow dry.",
+      "occasion": [
+        "Mehendi",
+        "Day Festive",
+        "Haldi"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_6",
+      "name": "Royal Emerald Kundan Necklace Set",
+      "description": "An opulent bridal Kundan choker necklace paired with matching dangling jhumkas. Crafted in brass with heavy gold-micron plating, lined with intricate glass stones (Kundan) and finished with micro-beaded emerald drops.",
+      "price": 35000,
+      "category": "Accessories",
+      "subCategory": "Necklaces",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800",
+        "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=800"
+      ],
+      "colors": [
+        "Emerald Gold",
+        "Ruby Gold",
+        "Pearl White"
+      ],
+      "sizes": [
+        "Adjustable Thread Drawstring"
+      ],
+      "stock": 7,
+      "rating": 4.9,
+      "reviews": [],
+      "craftsmanship": "Traditional casting, gold plating, and hand-threaded precious glass stone adjustments.",
+      "fabric": "Brass base, 22kt Gold plating coating, glass gemstones, faux emerald pearls.",
+      "careInstructions": "Keep away from perfumes, sweat, and water. Wrap in protective airtight boxes with velvet lining.",
+      "occasion": [
+        "Wedding",
+        "Sangeet",
+        "Reception"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_7",
+      "name": "Jodhpur Royal Silk Kurta Set",
+      "description": "A premium deep maroon silk pathani kurta styled elegantly with a contrast cream churidar. Detailed with modern sleek buttons, subtle geometric silk thread borders on collar tabs, and deep side pockets.",
+      "price": 18500,
+      "category": "Men",
+      "subCategory": "Kurta Sets",
+      "images": [
+        "https://images.unsplash.com/photo-1621184455862-c163dfb30e0f?q=80&w=800",
+        "https://images.unsplash.com/photo-1605001011156-cbf0b0f67a51?q=80&w=800"
+      ],
+      "colors": [
+        "Crimson Maroon",
+        "Royal Blue",
+        "Emerald Green"
+      ],
+      "sizes": [
+        "38 (S)",
+        "40 (M)",
+        "42 (L)",
+        "44 (XL)"
+      ],
+      "stock": 20,
+      "rating": 4.5,
+      "reviews": [],
+      "craftsmanship": "Tailored expertly with clean hidden seams in Rajasthan.",
+      "fabric": "70% Pure Silk, 30% Egyptian Cotton blend.",
+      "careInstructions": "Dry clean recommended. Gentle warm iron.",
+      "occasion": [
+        "Mehendi",
+        "Sangeet guest",
+        "Festivals"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_8",
+      "name": "Royal Brocade Nehru Jacket",
+      "description": "A stunning, dense gold-brocade Nehru jacket with rich antique floral weaves. Featuring detailed golden buttons, a mandarin collar, and triple welt pockets. Designed to layer elegantly over simple silk kurtas.",
+      "price": 14500,
+      "category": "Men",
+      "subCategory": "Nehru Jackets",
+      "images": [
+        "https://images.unsplash.com/photo-1621184455862-c163dfb30e0f?q=80&w=800",
+        "https://images.unsplash.com/photo-1605001011156-cbf0b0f67a51?q=80&w=800"
+      ],
+      "colors": [
+        "Mustard Gold",
+        "Silver Champagne"
+      ],
+      "sizes": [
+        "38 (S)",
+        "40 (M)",
+        "42 (L)",
+        "44 (XL)"
+      ],
+      "stock": 10,
+      "rating": 4.5,
+      "reviews": [],
+      "craftsmanship": "Woven on semi-mechanized jacquard handlooms in Banaras and tailored in Mumbai.",
+      "fabric": "Banarasi Kora Silk Base, Zari Weft Threads",
+      "careInstructions": "Dry clean only.",
+      "occasion": [
+        "Sangeet",
+        "Haldi",
+        "Festivals"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_saree_banarasi",
+      "name": "Bespoke Varanasi Shahi Banarasi Silk Saree",
+      "description": "A legendary piece of handloom art. Woven over three months in Varanasi, this pure Katan silk saree is embellished with heavy 'shikargah' animal hunting motifs and floral bel patterns in real gold and silver zari. Features an opulent brocade pallu with detailed kalsi border art.",
+      "price": 125000,
+      "discountPrice": 110000,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800",
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=800"
+      ],
+      "colors": [
+        "Antique Gold",
+        "Imperial Maroon"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 3,
+      "rating": 5,
+      "reviews": [],
+      "craftsmanship": "Double-spun mulberry silk woven on pit looms by fifth-generation weavers in Peeli Kothi, Varanasi.",
+      "fabric": "100% Pure Mulberry Silk with testing cert, woven with pure silver tilla coated in 22kt Gold.",
+      "careInstructions": "Dry clean only. Air twice a year in partial shade. Store in pure premium cotton muslin.",
+      "occasion": [
+        "Wedding",
+        "Grand Reception"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_saree_chanderi",
+      "name": "The Noor Chanderi Kora Silk Saree",
+      "description": "Unbelievably sheer and light as mountain mist, this ivory and champagne-gold Chanderi saree merges silk and fine-cotton warp. Decorated with hand-woven copper zari butis (motifs) and showcasing an elegant scalloped border with delicate border piping.",
+      "price": 38000,
+      "category": "Women",
+      "subCategory": "Designer Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800"
+      ],
+      "colors": [
+        "Champagne Ivory",
+        "Rose Gold"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 7,
+      "rating": 4.8,
+      "reviews": [],
+      "craftsmanship": "Woven in Chanderi, Madhya Pradesh. Hand-placed butis utilizing traditional wooden bobbins.",
+      "fabric": "Premium Kora Silk warp, pure hand-spun cotton weft, copper zari wires.",
+      "careInstructions": "Dry clean only. Roll fold to avoid permanent creasing along the sheer silk panels.",
+      "occasion": [
+        "Daytime Festive",
+        "Mehendi",
+        "Grand Pooja"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_saree_bandhani",
+      "name": "The Rani Kutch Bandhej Gaji Silk Saree",
+      "description": "A vibrantly striking traditional masterpiece in heavy Gaji silk. Features intensive hand-knotted tie-dye dots in traditional 'raas-leela' arrangements. Adorned with a broad gold zardozi and gota patti hand-embroidered border to raise its status to wedding grandeur.",
+      "price": 72000,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800"
+      ],
+      "colors": [
+        "Scarlet Red",
+        "Deep Tangerine"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 5,
+      "rating": 4.9,
+      "reviews": [],
+      "craftsmanship": "Hand-knotted in Bhuj (takes 60 days to tie), custom hand-dyed, then finished with handcrafted tilla borders in Ahmedabad.",
+      "fabric": "100% Pure Gaji Silk (high-gloss, heavy drape)",
+      "careInstructions": "Dry clean only. Do not wash at home or spray water directly. Warm steam iron on reverse side on low temperature.",
+      "occasion": [
+        "Haldi",
+        "Wedding Reception",
+        "Festive Sangeet"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_saree_paithani",
+      "name": "The Royal Pratishthan Paithani Silk Saree",
+      "description": "Worn by queens historically, this Paithani saree in deep royal blue boasts a signature heavy gold pallu featuring multicolored hand-woven peacocks (mor) and parrots flowing in silk. The body is accented with tiny handwoven coin (asharfi) motifs.",
+      "price": 95000,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800"
+      ],
+      "colors": [
+        "Peacock Blue",
+        "Forest Emerald"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 4,
+      "rating": 5,
+      "reviews": [],
+      "craftsmanship": "Woven on traditional wooden handlooms in Paithan, Maharashtra utilizing a unique tapestry weaving technique.",
+      "fabric": "100% Pure Mulberry Silk, pure gold-plated silver zari borders.",
+      "careInstructions": "Dry clean only. Always wrap with breathable white muslin cloth and keep in cedar chests if possible.",
+      "occasion": [
+        "Wedding",
+        "Grand Pooja",
+        "Groom Reception"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_saree_organza",
+      "name": "The Bahar-E-Gul Organza Designer Saree",
+      "description": "A contemporary vision of modern Indian luxury. Crafted from glass-like sheer organza in a delicate pastel peach hue, it features exquisite hand-sewn glass beads, seed pearls, and sparkling floral vine sequins tracing the scalloped borders. Includes an unstitched ivory raw-silk blouse.",
+      "price": 48000,
+      "category": "Women",
+      "subCategory": "Designer Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800"
+      ],
+      "colors": [
+        "Blush Peach",
+        "Mint Champagne"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 8,
+      "rating": 4.7,
+      "reviews": [],
+      "craftsmanship": "Meticulous hand-beading and tilla-scalloping done by our in-house master dressmakers over 45 hours.",
+      "fabric": "Premium Sheer Glass Organza, Raw Silk border trim.",
+      "careInstructions": "Dry clean only. Store flat to avoid pulling the delicate sheer weaves of the organza canvas.",
+      "occasion": [
+        "Evening Cocktail",
+        "Soirée",
+        "Sangeet"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_saree_patola",
+      "name": "The Shahi Patan Double-Ikat Patola Saree",
+      "description": "A rare collector's heirloom of mesmerizing precision. This Patola silk saree features a double-ikat grid pattern, where both warp and weft silk threads are individually tie-dyed prior to hand-weaving so that the geometric floral and elephant patterns (Nari Kunjar) perfectly match. Completely reversible design.",
+      "price": 210000,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1608744882201-52a7f7f3dd60?q=80&w=800"
+      ],
+      "colors": [
+        "Terracotta Crimson",
+        "Golden Olive"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 2,
+      "rating": 5,
+      "reviews": [],
+      "craftsmanship": "Takes up to 5 master craftsmen 6 months to dye and weave a single saree in Patan, Gujarat.",
+      "fabric": "100% Hand-woven Pure Patan Silk, dyed with entirely natural herbal dyes.",
+      "careInstructions": "Dry clean only. Avoid spraying perfumes directly onto the organic plant-dye panels.",
+      "occasion": [
+        "Wedding",
+        "Art Collectors Gala",
+        "Heritage Ceremony"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_saree_chikankari",
+      "name": "The Shahi Awadh Chikankari Saree",
+      "description": "An ethereal pure georgette saree featuring masterclass lucknowi Chikankari shadow hand-embroidery. Delicately styled with fine 'bakhia', 'phanda' and 'keel-kangan' embroidery patterns. Finished with beautiful shimmering mukaish (twisted silver wires) drops for a royal starry sparkle.",
+      "price": 68000,
+      "category": "Women",
+      "subCategory": "Designer Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800",
+        "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800"
+      ],
+      "colors": [
+        "Ethereal Lilac",
+        "Powder Blue",
+        "Pristine Ivory"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 6,
+      "rating": 4.9,
+      "reviews": [],
+      "craftsmanship": "Shadow thread embroidery completed by skilled women artisan guilds of Awadh, then hand-mukaished in Lucknow.",
+      "fabric": "Premium Silk-Georgette, Sterling Silver Mukaish thread details.",
+      "careInstructions": "Dry clean only. Store wrapped in dark acid-free paper to protect silver tarnish.",
+      "occasion": [
+        "Daytime Reception",
+        "Sangeet",
+        "High Tea Gala"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_brand_sabyasachi_bridal",
+      "name": "Sabyasachi Heritage Gilded Karchobi Saree",
+      "description": "An ultra-exclusive bridal masterpiece from Sabyasachi's personal atelier. Woven in royal crimson katan silk, it features heavy antique gold thread handwork (karchobi), tilla wire embroidery outlines, and a plush hand-dyed velvet border edge. Pure luxury that radiates heritage elegance.",
+      "price": 195000,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=800"
+      ],
+      "colors": [
+        "Crimson Red",
+        "Imperial Maroon"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 3,
+      "rating": 5,
+      "reviews": [],
+      "craftsmanship": "Authentic Varanasi hand-weaving finished with hand-crafted karchobi wire layouts in Kolkata.",
+      "fabric": "100% Pure Varanasi Silk, Luxury Velvet Borders",
+      "careInstructions": "Dry clean only. Store wrapped in cotton muslin inside safe wooden trunks.",
+      "occasion": [
+        "Wedding",
+        "Main Ceremony"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_brand_manish_sequin",
+      "name": "Manish Malhotra Stellar Sequin Cocktail Saree",
+      "description": "An iconic signature design by Manish Malhotra. Adorned with thousands of micro-sized midnight black and champagne rose starlet sequins sheeted on premium georgette fabric. Designed to reflect light dramatically under grand chandeliers, paired with a matching velvet sleeveless blouse.",
+      "price": 85000,
+      "category": "Women",
+      "subCategory": "Designer Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1610030469668-93535c17b6b3?q=80&w=800"
+      ],
+      "colors": [
+        "Midnight Pink",
+        "Champagne Rose"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 5,
+      "rating": 4.9,
+      "reviews": [],
+      "craftsmanship": "In-house laser-cut miniature sequin embroideries hand-placed sequentially over dense double-georgette.",
+      "fabric": "Premium Double Georgette, Micro-Glitter Alloy Beads",
+      "careInstructions": "Dry clean only. Do not iron directly to prevent sequin deformation.",
+      "occasion": [
+        "Evening Cocktail",
+        "Reception",
+        "Soirée"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_saree_mysore",
+      "name": "Maharani Golden Mysore Crepe Silk Saree",
+      "description": "The golden standard of Royal Karnataka. Crafted from 100% organic high-twist pure mulberry crepe silk, giving it a heavy, luxurious, fluid drape. Adorned with a broad gold solid-weave border and delicate checked patterns on the grand pallu.",
+      "price": 54000,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800"
+      ],
+      "colors": [
+        "Royal Blue",
+        "Golden Mustard",
+        "Forest Emerald"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 8,
+      "rating": 4.8,
+      "reviews": [],
+      "craftsmanship": "Authorized state-weaver handloom weaving employing pure silver zari threads washed in 24kt gold fluid melt.",
+      "fabric": "100% Pure Mysore Silk Crepe (75g grade)",
+      "careInstructions": "Wash in cold water with mild reetha nutshell extract or dry clean. Safe medium warm steaming.",
+      "occasion": [
+        "Daytime Festive",
+        "Grand Pooja",
+        "Family Celebrations"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_saree_sambalpuri",
+      "name": "Heritage Sambalpuri Double-Bandha Ikkat Saree",
+      "description": "An exquisite craft treasure representing the tribal heart of Odisha. Hand-woven using the complex bandha double-tie-and-dye method, depicting traditional shankha (conch), chakra (wheel), and floral templates. Fully reversible with stunning color saturation.",
+      "price": 62050,
+      "category": "Women",
+      "subCategory": "Silk Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1608744882201-52a7f7f3dd60?q=80&w=800"
+      ],
+      "colors": [
+        "Terracotta Black",
+        "Crimson Yellow"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 4,
+      "rating": 4.9,
+      "reviews": [],
+      "craftsmanship": "Takes 45 days of dye-bumping and warp threading by Master weavers of Bargarh, Odisha.",
+      "fabric": "Pure Tussar-Silk blend core, organic plant indigo and madder dyes.",
+      "careInstructions": "Dry wash first. Hand wash in cold water with mild vinegar drops to preserve organic plant dyes.",
+      "occasion": [
+        "Festive Celebrations",
+        "Cultural Events",
+        "Grand Pooja"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_saree_linen",
+      "name": "Atelier Jaipur Block-Print Silk Linen Saree",
+      "description": "A comforting breathable blend of pure Belgian flax linen and soft silk warp. Featuring beautiful hand-blocked natural indigo lotus motifs and finished with subtle silver-zari checks along the borders. Perfectly styled for luxury daywear and elegant corporate assemblies.",
+      "price": 18500,
+      "category": "Women",
+      "subCategory": "Designer Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800"
+      ],
+      "colors": [
+        "Indigo Blue",
+        "Pastel Sage",
+        "Oatmeal Gold"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 15,
+      "rating": 4.6,
+      "reviews": [],
+      "craftsmanship": "Hand-spun linen yarn woven with premium Mulberry Silk, block stamped by award-winning artisans of Bagru.",
+      "fabric": "60% Pure Flax Linen, 40% Mulberry Silk warp, genuine silver border yarn.",
+      "careInstructions": "Mild handbook starch wash. Warm iron to maintain Crisp elite fall creases.",
+      "occasion": [
+        "Office wear",
+        "Day Festive",
+        "High Tea Gala"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_saree_cotton",
+      "name": "Bespoke Kota Doria Royal Zari Saree",
+      "description": "Featherlight handloom marvel from Kota, Rajasthan. Features a signature check template (Khat) woven in rich silk-cotton grids. Adorned with a delicate gold-wire border and small woven leaf motifs, providing outstanding ease and structural comfort in summer climates.",
+      "price": 14500,
+      "category": "Women",
+      "subCategory": "Designer Sarees",
+      "images": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800"
+      ],
+      "colors": [
+        "Sunshine Yellow",
+        "Lilac Frost",
+        "Soft Champagne"
+      ],
+      "sizes": [
+        "Free Size (Includes Unstitched Blouse Piece)"
+      ],
+      "stock": 10,
+      "rating": 4.7,
+      "reviews": [],
+      "craftsmanship": "Authentic multi-needle khat weaver grids on fine cotton-silk looms in Kaithoon, Kota.",
+      "fabric": "75% Fine Egyptian Cotton, 25% Pure Silk, Copper-Gold Zari core.",
+      "careInstructions": "Gentle hand-wash with mild baby soap. Do not wring or press fold permanently.",
+      "occasion": [
+        "Haldi",
+        "Daytime Celebrations",
+        "Office wear"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_acc_jhumka",
+      "name": "Maharani Polki Chandbali Jhumkas",
+      "description": "An opulent pair of traditional royal Rajasthani Chandbali earrings combined with traditional dangling dome Jhumkas. Hand-crafted in pure sterling silver with rich 22-Karat gold-micron plating, studded with hand-cracked uncut diamond stones (Polki/Kundan) and finished with south-sea pearl drops.",
+      "price": 16500,
+      "category": "Accessories",
+      "subCategory": "Jewellery",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800"
+      ],
+      "colors": [
+        "22kt Gold Plated",
+        "Sterling Silver Plated"
+      ],
+      "sizes": [
+        "One Size (Comfort Pierce)"
+      ],
+      "stock": 12,
+      "rating": 5,
+      "reviews": [],
+      "craftsmanship": "Casted handcraft and detailed semi-precious stone settings by master goldsmiths of Jaipur.",
+      "fabric": "Sterling Silver base, 22kt Gold plating coating, glass Polkis, real natural pearls.",
+      "careInstructions": "Do not spray hairsprays or cosmetics directly. Keep safe inside wrapped satin-lined air-tight containers.",
+      "occasion": [
+        "Wedding",
+        "Sangeet",
+        "Festive Celebrations"
+      ],
+      "featured": true,
+      "isNewArrival": true,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_acc_potli",
+      "name": "Mughal Garden Embroidered Potli Bag",
+      "description": "A highly coveted luxury drawstring Potli handbag. Fabricated in plush burgundy velvet and entirely embroidered by hand with dense zardozi patterns, dabka wire vines, and champagne beads. Featuring an elegant hanging pearl drawstring tassels row and solid braided wrist chain.",
+      "price": 8500,
+      "category": "Accessories",
+      "subCategory": "Bags",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800"
+      ],
+      "colors": [
+        "Burgundy Velvet",
+        "Ivory Silk",
+        "Royal Emerald Velvet"
+      ],
+      "sizes": [
+        "Standard (Fits smartphone, compact, cards)"
+      ],
+      "stock": 18,
+      "rating": 4.8,
+      "reviews": [],
+      "craftsmanship": "Handcrafted zardozi framing by wedding embroiderers of Old Delhi, taking 18 hours per bag.",
+      "fabric": "Plush Premium Velvet, Silk inner-linings, Gold Braided drawstring chains.",
+      "careInstructions": "Gently wipe with a soft dry cloth. Avoid contact with moist or grease surfaces.",
+      "occasion": [
+        "Wedding Reception",
+        "Sangeet",
+        "Cocktail Parties"
+      ],
+      "featured": true,
+      "isNewArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": "prod_acc_kolhapuri",
+      "name": "Shahi Zardozi Bridal Kolhapuri Sandals",
+      "description": "Intricately detailed traditional Kolhapuri wedge sandals. Handmade in pure vegetable-tanned premium leather and adorned with an elegant champagne silk cushion strap detailed with hand-sewn gold tilla and micro-beaded zardozi embroidery. Comfortable elevated wedge providing flawless royal stride.",
+      "price": 9800,
+      "category": "Accessories",
+      "subCategory": "Footwear",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800"
+      ],
+      "colors": [
+        "Rich Imperial Gold",
+        "Blush Pink Gold"
+      ],
+      "sizes": [
+        "6 (EU 37)",
+        "7 (EU 38)",
+        "8 (EU 39)",
+        "9 (EU 40)"
+      ],
+      "stock": 10,
+      "rating": 4.7,
+      "reviews": [],
+      "craftsmanship": "Naturally cured leather carved and hand-woven in Kolhapur, with elite hand-embroidery done in Udaipur.",
+      "fabric": "100% Premium Genuine Leather base, Pure Satin strap padding, gold metallic yarn wires.",
+      "careInstructions": "Keep away from water or extreme moisture. Apply specialized leather oil periodically.",
+      "occasion": [
+        "Wedding",
+        "Haldi",
+        "Mehendi",
+        "Sangeet"
+      ],
+      "featured": false,
+      "isNewArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": "prod_acc_bangles",
+      "name": "Royal Lac Brass-Studded Bridal Bangle Set",
+      "description": "Authentic bridal bangle stack of 18 meticulously balanced components. Handcrafted from pure natural lacquer (Lac) and brass foundations, studded with beautiful micro-cut crystals, gemstones and gold foil linings. Radiates classic majestic charm.",
+      "price": 5500,
+      "category": "Accessories",
+      "subCategory": "Bangles",
+      "images": [
+        "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800"
+      ],
+      "colors": [
+        "Bridal Maroon Stack",
+        "Mint Gold Stack"
+      ],
+      "sizes": [
+        "2.4 (Small)",
+        "2.6 (Medium)",
+        "2.8 (Large)"
+      ],
+      "stock": 14,
+      "rating": 4.9,
+      "reviews": [],
+      "craftsmanship": "Naturally boiled and pigmented lac formed slowly on traditional rod-mandrels in Jaipur.",
+      "fabric": "Traditional Natural Lac core, brass reinforcement circles, crystal gemstones.",
+      "careInstructions": "Keep away from high heat zones as lac can soften. Avoid rough impacts to protect crystal clusters.",
+      "occasion": [
+        "Wedding",
+        "Main Ceremony",
+        "Grand Puja"
+      ],
+      "featured": false,
+      "isNewArrival": false,
+      "bestSeller": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "re_ord_1001",
+      "customerEmail": "aahiltokalatech@gmail.com",
+      "customerName": "Aahil Tokala",
+      "shippingAddress": {
+        "street": "104 Pearl Heritage, Bandra Stand Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "zip": "400050",
+        "phone": "+91 98765 43210"
+      },
+      "items": [
+        {
+          "productId": "prod_2",
+          "name": "Noor-I-Jahan Anarkali",
+          "price": 42000,
+          "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800",
+          "quantity": 1,
+          "size": "M",
+          "color": "Champagne Gold"
+        }
+      ],
+      "total": 42000,
+      "status": "Tailoring",
+      "paymentMethod": "Razorpay",
+      "paymentStatus": "Paid",
+      "trackingNumber": "RE-TRK-784112",
+      "createdAt": "2026-06-10T14:32:00Z"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "ROYAL10",
+      "discountPercent": 10,
+      "description": "10% off on all royal collections"
+    },
+    {
+      "code": "BRIDALSELECT",
+      "discountPercent": 15,
+      "description": "Exquisite 15% off coupon for wedding accessories and custom bridal outfits"
+    },
+    {
+      "code": "FESTIVE5",
+      "discountPercent": 5,
+      "description": "5% off storewide"
+    }
+  ],
+  "users": {
+    "aahiltokalatech@gmail.com": {
+      "email": "aahiltokalatech@gmail.com",
+      "name": "Aahil Tokala",
+      "addresses": [
+        {
+          "id": "addr_1",
+          "name": "Home Residence",
+          "street": "104 Pearl Heritage, Bandra Stand Road",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "zip": "400050",
+          "phone": "+91 98765 43210",
+          "isDefault": true
+        }
+      ],
+      "wishlist": [
+        "prod_1",
+        "prod_4"
+      ],
+      "salt": "a65ed45e0a2bc059c524452d95e0f6e1",
+      "hash": "37b24dad1123694ead607c66e95b085ffed8978a3ec6124b98cc73e3047afc0aad422bb86225ca94658545c711e96b916979b8ff395b205e4b0443ce88f38645"
+    }
+  }
+}
