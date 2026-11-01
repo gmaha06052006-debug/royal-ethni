@@ -1,0 +1,39 @@
+# Royal Ethnica - Project Requirements
+# This is a Node.js/TypeScript project. Use npm to install dependencies.
+# Node.js >= 18.0.0 required
+# Run: npm install
+
+# ── Runtime Dependencies ──────────────────────────────────────────────────────
+@google/genai@^2.4.0              # Google Generative AI SDK
+@mediapipe/tasks-vision@0.10.17   # MediaPipe vision tasks
+@react-three/drei@^10.7.7         # React Three Fiber helpers
+@react-three/fiber@^9.6.1         # React renderer for Three.js
+@tailwindcss/vite@^4.1.14         # TailwindCSS Vite plugin
+@vitejs/plugin-react@^5.0.4       # Vite React plugin
+dotenv@^17.2.3                     # Environment variable loader
+express@^4.21.2                    # Express web server
+lucide-react@^0.546.0              # Lucide icon library for React
+motion@^12.23.24                   # Motion animation library
+react@^19.0.1                      # React UI library
+react-dom@^19.0.1                  # React DOM renderer
+three@^0.184.0                     # Three.js 3D library
+vite@^6.2.3                        # Vite build tool
+
+# ── Dev Dependencies ──────────────────────────────────────────────────────────
+@types/express@^4.17.21            # TypeScript types for Express
+@types/node@^22.14.0               # TypeScript types for Node.js
+@types/three@^0.184.1              # TypeScript types for Three.js
+autoprefixer@^10.4.21              # PostCSS autoprefixer
+esbuild@^0.25.0                    # JavaScript/TypeScript bundler
+tailwindcss@^4.1.14                # TailwindCSS framework
+tsx@^4.21.0                        # TypeScript executor for Node.js
+typescript@~5.8.2                  # TypeScript compiler
+
+# ── Setup Instructions ────────────────────────────────────────────────────────
+# 1. Install Node.js >= 18: https://nodejs.org/
+# 2. Install dependencies: npm install
+# 3. Copy environment file: copy .env.example .env
+# 4. Fill in your API keys in .env
+# 5. Start dev server: npm run dev
+# 6. Build for production: npm run build
+# 7. Start production server: npm run start
